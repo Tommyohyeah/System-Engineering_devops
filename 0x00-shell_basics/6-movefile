@@ -1,0 +1,3 @@
+#!/bin/bash
+touch road
+mv road tmp/roadmap/
